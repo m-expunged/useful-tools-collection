@@ -8,3 +8,6 @@
 - [AsciiFlow](https://asciiflow.com/)
 - [TextCompare](https://text-compare.com/)
 - [FreeCodeCamp](https://www.freecodecamp.org/)
+- [ILSpy](https://github.com/icsharpcode/ILSpy)
+- [OpenAPI Generator](https://openapi-generator.tech/), [OpenAPI Generator CLI](https://www.npmjs.com/package/@openapitools/openapi-generator-cli), [Typespec](https://github.com/microsoft/typespec)
+- [LINQPad](https://www.linqpad.net/)
